@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kei Kei, Do It Yourself"
+title                    : "Kei Kei - Do It Yourself"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kei Kei"
@@ -94,10 +94,10 @@ analytics:
 # Site Author
 author:
   name             : "Kei Kei"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person and **loving* mother and wife."
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "I am an **amazing** person, **loving** mother and wife."
   location         : "Bratislava, Slovakia"
-  email            : "diy.keikei@gmail.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
